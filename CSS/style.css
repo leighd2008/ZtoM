@@ -1,0 +1,43 @@
+/* class .classname
+    id  #id */
+
+* {
+  text-align: right;
+}
+
+body {
+  background-image: url(backgroundimage.jpg);
+  background-size: cover;
+}
+h2 {
+  color: rgb(71, 46, 116);
+  text-align: center;
+  border: 5px solid rgb(120, 11, 112);
+  cursor: pointer;
+}
+
+p {
+  text-align: center;
+  border: 5px solid rgb(120, 11, 112);
+  cursor: pointer;
+  color: rgb(54, 28, 110);
+  line-height: 50px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 100%;
+  font-family: 'Poiret One', cursive;
+}
+
+img {
+  float: right;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
